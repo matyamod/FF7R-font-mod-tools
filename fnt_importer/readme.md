@@ -18,11 +18,11 @@
 #### Examples
 
 SystemFontNormalJP4K.uexp, slide_offset=\[20,40\]<br>
-![offset](./image/offset.jpg)<br>
+<img src = "../image/offset.jpg" width=392>
 <br>
 
 SystemFontNormalJP4K.uexp, widen_xadvance=20<br>
-![xadvance](./image/xadvance.jpg)<br>
+<img src = "../image/xadvance.jpg" width=392>
 <br>
 
 ### How to Use fnt_impoter with requests.json
