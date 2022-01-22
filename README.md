@@ -20,7 +20,7 @@ Download `FF7R-font-mod-tools-*.zip` from here.<br>
 
 - `FF7R.bmfc`: Configuration file for BMFont.
 - `dds_to_bc5.bat`: Batch file for running NVIDIA Texture Tools with CLI.
-- `fnt_importer`: Tool for importing font descriptior from `.fnt` into `.uexp`.
+- `fnt_importer`: Tool for importing font descriptor from `.fnt` into `.uexp`.
 - `font_4Ktexture_replacer`: DDS replacer for font bitmap.
 - `make_mod_folder.bat`: Batch file for duplicating the file tree of the game resources.
 
