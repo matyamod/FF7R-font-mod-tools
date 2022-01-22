@@ -15,6 +15,15 @@
   - --requests=*.json: Sets parameters with .json.
   - --silent: Hides all messages.
 
+#### Examples
+
+SystemFontNormalJP4K.uexp, slide_offset=\[20,40\]<br>
+![offset](./image/offset.jpg)<br>
+<br>
+
+SystemFontNormalJP4K.uexp, widen_xadvance=20<br>
+![xadvance](./image/xadvance.jpg)<br>
+<br>
 
 ### How to Use fnt_impoter with requests.json
 
