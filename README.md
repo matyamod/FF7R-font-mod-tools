@@ -18,6 +18,10 @@ Tools for importing font data (`.ttf`) into FF7R (Final Fantasy VII Remake)
 - `fnt_importer`: Tool for importing font descriptior from `.fnt` into `.uexp`.
 - `font_4Ktexture_replacer`: DDS replacer for font bitmap.
 
+## Usage
+[fnt_importer/readme.md](./fnt_importer/readme.md)<br>
+[font_4Ktexture_replacer/readme.md](./font_4Ktexture_replacer/readme.md)<br>
+<br>
 
 ## Q&A
 
