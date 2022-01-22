@@ -6,7 +6,7 @@ REM A new .dds file will be generated.
 @if "%~1"=="" goto skip
 
 @pushd %~dp0
-python font_4Ktexture_replacer.py --uexp="%~1" --export_as_dds
+font_4Ktexture_replacer.exe --uexp="%~1" --export_as_dds
 @popd
 
 pause

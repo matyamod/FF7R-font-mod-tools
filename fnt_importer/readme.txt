@@ -1,9 +1,9 @@
-How to Use fnt_importer.py by MatyaModding
+How to Use fnt_importer.exe by MatyaModding
 
 * This is a beta version. There might be bugs.
 
 Usage
-  python fnt_importer.py --uexp=uexp --fnt=fnt [options]
+  fnt_importer.exe --uexp=uexp --fnt=fnt [options]
 
   uexp: uexp file
   fnt: fnt file

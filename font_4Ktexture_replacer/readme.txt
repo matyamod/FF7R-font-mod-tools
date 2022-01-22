@@ -1,7 +1,7 @@
-How to Use font_4Ktexture_replacer.py by MatyaModding
+How to Use font_4Ktexture_replacer.exe by MatyaModding
 
 Usage
-  python fnt_importer.py --uexp=uexp --dds=dds [options]
+  fnt_importer.exe --uexp=uexp --dds=dds [options]
 
   uexp: uexp file
   dds: dds file

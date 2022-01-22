@@ -1,0 +1,7 @@
+*/__pycache__
+*/build
+*/dist
+*py*.bat
+*test*
+*.spec
+*.exe
