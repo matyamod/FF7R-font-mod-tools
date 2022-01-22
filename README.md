@@ -1,6 +1,6 @@
 # FF7R Font Mod Tools ver 1.0.0
 
-Tools for importing font data (`.ttf`) into FF7R (Final Fantasy VII Remake)
+Tools for importing font files (`.ttf` or `.otf`) into Final Fantasy VII Remake
 
 <img src = "image/sample.jpg" width=600>
 
@@ -27,6 +27,11 @@ Download `FF7R-font-mod-tools-*.zip` from here.<br>
 ## Usage
 [fnt_importer/readme.md](./fnt_importer/readme.md)<br>
 [font_4Ktexture_replacer/readme.md](./font_4Ktexture_replacer/readme.md)<br>
+<br>
+
+## Tutorial
+[Font Mod Tutorial Chapter 1 (Generating .dds and .fnt)](https://github.com/matyalatte/FF7R-font-mod-tools/wiki/Font-Mod-Tutorial-Chapter-1-(Generating-.dds-and-.fnt))<br>
+[Font Mod Tutorial Chapter 2 (Replacing Font Assets)](https://github.com/matyalatte/FF7R-font-mod-tools/wiki/Font-Mod-Tutorial-Chapter-2-(Replacing-Font-Assets))<br>
 <br>
 
 ## Q&A
