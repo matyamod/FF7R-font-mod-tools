@@ -1,0 +1,23 @@
+{
+    "uexp_folder": "exported/End/Content/GameContents/Menu/Billboard/Common",
+    "dds_folder": "dds",
+    "new_uexp_folder": "new_bitmap_uexp",
+    "requests": [
+        {
+            "uexp": "U_Com_JP_SystemFontLarge4K-01.uexp",
+            "dds": "sampleL.dds"
+        },
+        {
+            "uexp": "U_Com_JP_SystemFontNormal4K-01.uexp",
+            "dds": "sampleN.dds"
+        },
+        {
+            "uexp": "U_Com_JP_SystemFontSmall4K-01.uexp",
+            "dds": "sampleS.dds"
+        },
+        {
+            "uexp": "U_Com_JP_SystemFontXLarge4K-01.uexp",
+            "dds": "sampleXL.dds"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "uexp_folder": "exported/End/Content/GameContents/Menu/Resident/Font/JP",
+    "fnt_folder": "fnt",
+    "new_uexp_folder": "new_glyph_uexp",
+    "requests": [
+        {
+            "uexp": "SystemFontLarge4K.uexp",
+            "fnt": "sampleL.fnt",
+            "first_page": 1,
+            "slide_offset": [0,0],
+            "widen_xadvance": 0
+        },
+        {
+            "uexp": "SystemFontNormal4K.uexp",
+            "fnt": "sampleN.fnt",
+            "first_page": 1,
+            "slide_offset": [0,0],
+            "widen_xadvance": 0
+        },
+        {
+            "uexp": "SystemFontSmall4K.uexp",
+            "fnt": "sampleS.fnt",
+            "first_page": 1,
+            "slide_offset": [0,0],
+            "widen_xadvance": 0
+        },
+        {
+            "uexp": "SystemFontXLarge4K.uexp",
+            "fnt": "sampleXL.fnt",
+            "first_page": 1,
+            "slide_offset": [0,0],
+            "widen_xadvance": 0
+        }
+    ]
+}
