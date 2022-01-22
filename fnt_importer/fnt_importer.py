@@ -11,7 +11,7 @@ def get_args():
     parser.add_argument('--new_uexp', default=None, help='File name of new uexp file.')
     parser.add_argument('--first_page', default=0, type=int, help='This value will be added to all page ids in .fnt before importing them.')
     parser.add_argument('--slide_offset', default=None, help='This value will be added to all offsets in .fnt before importing them.')
-    parser.add_argument('--widen_xadvance', default=0, help='This value will be added to all xadvance values in .fnt before importing them.')
+    parser.add_argument('--widen_xadvance', default=0, type=int,  help='This value will be added to all xadvance values in .fnt before importing them.')
     parser.add_argument('--requests', default=None, help='Loads request file.')
     parser.add_argument('--silent', action='store_true', help='Hides all messages.')
     args = parser.parse_args()
