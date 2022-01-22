@@ -11,6 +11,11 @@ Download `FF7R-font-mod-tools-*.zip` from here.<br>
 [Releases · matyalatte/FF7R-font-mod-tools](https://github.com/matyalatte/FF7R-font-mod-tools/releases)<br>
 <br>
 
+## Tutorial
+[Font Mod Tutorial Chapter 1 (Generating .dds and .fnt)](https://github.com/matyalatte/FF7R-font-mod-tools/wiki/Font-Mod-Tutorial-Chapter-1-(Generating-.dds-and-.fnt))<br>
+[Font Mod Tutorial Chapter 2 (Replacing Font Assets)](https://github.com/matyalatte/FF7R-font-mod-tools/wiki/Font-Mod-Tutorial-Chapter-2-(Replacing-Font-Assets))<br>
+<br>
+
 ## Requirements
 
 - [BMFont](https://www.angelcode.com/products/bmfont/): Generates bitmap textures (`.dds`) and a font descriptor file (`.fnt`) from `.ttf`.
@@ -27,11 +32,6 @@ Download `FF7R-font-mod-tools-*.zip` from here.<br>
 ## Usage
 [fnt_importer/readme.md](./fnt_importer/readme.md)<br>
 [font_4Ktexture_replacer/readme.md](./font_4Ktexture_replacer/readme.md)<br>
-<br>
-
-## Tutorial
-[Font Mod Tutorial Chapter 1 (Generating .dds and .fnt)](https://github.com/matyalatte/FF7R-font-mod-tools/wiki/Font-Mod-Tutorial-Chapter-1-(Generating-.dds-and-.fnt))<br>
-[Font Mod Tutorial Chapter 2 (Replacing Font Assets)](https://github.com/matyalatte/FF7R-font-mod-tools/wiki/Font-Mod-Tutorial-Chapter-2-(Replacing-Font-Assets))<br>
 <br>
 
 ## Q&A
